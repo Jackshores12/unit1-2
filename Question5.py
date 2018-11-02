@@ -1,0 +1,2 @@
+day = input()
+night = input()
